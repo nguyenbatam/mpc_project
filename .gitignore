@@ -1,0 +1,25 @@
+# Thư mục và tệp được tạo ra bởi Go
+/bin/
+/vendor/
+/Godeps/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Thư mục lưu trữ dữ liệu
+
+
+# Tệp và thư mục của IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tệp hệ thống
+.DS_Store
+Thumbs.db
