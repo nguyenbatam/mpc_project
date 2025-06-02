@@ -54,7 +54,7 @@ This will start an interactive menu in your terminal. Follow the prompts to perf
     - The program will display the available party indexes and the minimum required parties for signing (Threshold + 1).
     - You will be prompted to enter the participating party indexes (comma-separated, e.g., `0,1,2`).
     - You will then be prompted to enter the message to sign.
-    - If successful, the R and S components of the signature will be printed to the console as a hex string.
+    - If successful, the signature will be printed to the console as a hex string.
 
 3.  **Verification:**
     - Select option `3` from the menu.
